@@ -1,4 +1,4 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Made from [Url Uploader #V2.4 3](https://telegram.dog/Uploadto_Tgbot)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
@@ -15,8 +15,8 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [Url Uploader #V2.4 3](https://telegram.dog/Uploadto_Tgbot) without having to run anything on your own
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
