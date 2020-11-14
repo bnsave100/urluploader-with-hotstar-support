@@ -1,5 +1,5 @@
 {
-  "name": "URL Uploader",
+  "name": "urluploader-with-hotstar-support",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "success_url": "https://telegram.dog/Uploadto_Tgbot",
+  "website": "https://github.com/Kirodewal",
+  "repository": "https://github.com/kirodewal/urluploader-with-hotstar-support",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
